@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: MyConfigMap
+data:
+  name: menfre
+  country: China
